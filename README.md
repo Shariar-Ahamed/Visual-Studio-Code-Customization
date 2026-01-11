@@ -124,8 +124,8 @@ Update them if you are using another OS.
 
 
 ## 🎨 VS Code Themes
-- Andromeda 👈
-- Dracula Official
+- Dracula Theme Official 👈
+- Andromeda
 - Night Owl
 - Shades of Purple
 - SynthWave '84

@@ -15,7 +15,9 @@ This list evolves over time as I explore better tools.
 - Prettier – Code Formatter
 - ESLint
 - HTML CSS Support
+- Auto Import
 - Auto Rename Tag
+- Auto Close Tag
 - CSS Peek
 - Tailwind CSS IntelliSense
 - Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets
@@ -30,17 +32,26 @@ This list evolves over time as I explore better tools.
 - JS JSX Snippets
 - JSX HTML <tags/>
 - Gradle for Java
+- Simple React Snippets
+- Snipped
+- VSCode React Refactor
 
 ---
 
 ## 🎨 UI / UX & Visual Tools
-- Dracula Theme Official
 - Material Icon Theme
 - Better Comments
 - Bracket Pair Color DLW
 - Power Mode
 - CodeSnap
 - Beauty
+- indent-rainbow
+- Dracula Theme Official 👈
+- Andromeda
+- Night Owl
+- Shades of Purple
+- SynthWave '84
+- Ayu (Theme)
 
 ---
 
@@ -113,6 +124,16 @@ This list evolves over time as I explore better tools.
 ## 🌍 Remote Development
 - Remote – Tunnels
 - Remote Explorer
+
+---
+
+## 🧪 API Testing & Backend Tools
+- Postman
+
+---
+
+## 💻 CMS & WordPress Development
+- WordPress Snippets
 
 ---
 
