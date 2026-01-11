@@ -1,49 +1,122 @@
 ## 🔌 VS Code Extensions I Use
 
-### Frontend Essentials
+This is my complete Visual Studio Code extension setup.
+It is mainly focused on Frontend Development, React,
+UI/UX, Productivity, and Computer Science coursework.
+
+This list evolves over time as I explore better tools.
+
+---
+
+## 🌐 Frontend Essentials
 - Live Server
-- Prettier
+- Live Sass Compiler
+- Compile Sass or Scss to CSS
+- Prettier – Code Formatter
 - ESLint
-- Tailwind CSS IntelliSense
 - HTML CSS Support
 - Auto Rename Tag
 - CSS Peek
+- Tailwind CSS IntelliSense
+- Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets
 
-### React & JavaScript
-- ES7+ React Snippets
-- React Snippets
-- JSX HTML Tags
-- JavaScript Snippets
+---
 
-### UI / UX
-- Dracula Theme
+## ⚛️ React / JavaScript
+- ES7+ React/Redux/React-Native Snippets
+- React Extension Pack
+- ReactJS Code Snippets
+- JavaScript (ES6) Code Snippets
+- JS JSX Snippets
+- JSX HTML <tags/>
+- Gradle for Java
+
+---
+
+## 🎨 UI / UX & Visual Tools
+- Dracula Theme Official
 - Material Icon Theme
 - Better Comments
-- CodeSnap
+- Bracket Pair Color DLW
 - Power Mode
+- CodeSnap
+- Beauty
 
-### Productivity
+---
+
+## 📱 Mobile & Responsive Preview
+- Android iOS Emulator
+- Mobile Preview - Phone & Tablet Simulator
+- MobileView
+- Emmet Live
+- Mithril Emmet
+
+---
+
+## ⚙️ Productivity & Workflow
 - GitHub Copilot
 - GitHub Copilot Chat
+- Gemini Code Assist
 - WakaTime
+- Code Time
 - Todo Tree
+- npm Intellisense
 - Path Intellisense
-- NPM Intellisense
+- Search node_modules
+- Print
 
-### Mobile Preview
-- Mobile Preview / Phone Preview
+---
 
-### Docs & PDF
+## 🤖 AI Coding Assistants
+- GitHub Copilot
+- GitHub Copilot Chat
+- Gemini Code Assist
+- BLACKBOXAI #1 Al Coding Agent and Coding Copilot
+- BLACKBOXAI Agent - Coding Copilot
+
+---
+
+## 🧪 Code Execution & Debugging
+- Code Runner
+- Quokka.js
+- CodeLLDB
+
+---
+
+## 🧮 C / C++ & System Programming
+- C/C++
+- C/C++ Extension Pack
+- C/C++ Runner
+- C/C++ Themes
+- CMake
+- CMake Tools
+
+---
+
+## 🐍 Python & Data Science
+- Python Path
+- Jupyter
+- Jupyter Cell Tags
+- Jupyter Keymap
+- Jupyter Notebook Renderers
+- Jupyter Slide Show
+
+---
+
+## 📄 Documentation & PDF
 - Markdown PDF
 - PDF Viewer
+- vscode-pdf
 
-### C / C++ & CS Tools
-- Code Runner
-- C/C++ Tools
-- CMake Tools
-- LLDB
+---
 
-### Optional / Experimental
-- Blackbox
-- Emulate
-- Beauty
+## 🌍 Remote Development
+- Remote – Tunnels
+- Remote Explorer
+
+---
+
+## ✅ Notes
+- Some extensions may overlap in functionality.
+- Not all extensions are used daily.
+- This setup is optimized for learning, frontend work, and experimenting with different tools.
