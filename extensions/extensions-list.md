@@ -79,6 +79,7 @@ This list evolves over time as I explore better tools.
 ---
 
 ## 🤖 AI Coding Assistants
+- Codex – OpenAI’s coding agent
 - GitHub Copilot
 - GitHub Copilot Chat
 - Gemini Code Assist
