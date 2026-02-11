@@ -17,7 +17,8 @@ Visual-Studio-Code-Customization/
 │   └── settings.full.json
 │
 ├── extensions/
-│   └── extensions-list.md
+│   ├── extensions-list.md
+│   └── extensions-list.pdf
 │
 └── setup-guide/
     ├── setup.md
