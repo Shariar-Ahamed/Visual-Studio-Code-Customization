@@ -1,0 +1,59 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "numpad_divide",
+    "command": "prettier.forceFormatDocument"
+  },
+  {
+    "key": "numpad_multiply",
+    "command": "extension.liveServer.goOnline",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+l alt+o",
+    "command": "-extension.liveServer.goOnline",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "numpad_subtract",
+    "command": "ysemeniuk.emmetLive",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+k ctrl+l",
+    "command": "-ysemeniuk.emmetLive",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "home",
+    "command": "mobile-preview.show"
+  },
+  {
+    "key": "insert",
+    "command": "screens.focus"
+  },
+  {
+    "key": "scrolllock",
+    "command": "wakatime.dashboard"
+  },
+  {
+    "key": "delete",
+    "command": "quokka.makeQuokkaFromExistingFile",
+    "when": "!quokka.isLiveShareClient && !terminalFocus"
+  },
+  {
+    "key": "ctrl+k q",
+    "command": "quokka.makeQuokkaFromExistingFile",
+    "when": "!quokka.isLiveShareClient && !terminalFocus"
+  },
+  {
+    "key": "ctrl+r",
+    "command": "workbench.action.reloadWindow",
+    "when": "false"
+  },
+  {
+    "key": "ctrl+r",
+    "command": "-workbench.action.reloadWindow",
+    "when": "isDevelopment"
+  }
+]
