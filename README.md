@@ -162,7 +162,6 @@ Update them if you are using another OS.
 |  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |
 |  Quokka.js | Ctrl + K -> Q | cmd + option + j |
 
-
 # Apps Required for VS Code Setup
 
 This file lists all the essential apps installed on my PC that are used alongside Visual Studio Code for development.
