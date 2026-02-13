@@ -162,11 +162,11 @@ Update them if you are using another OS.
 |  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |
 
 
-## 🔑 VS Code Extensions Shortcuts 
+## ✨ VS Code Extensions Shortcuts 
 
 | Keyboard Shortcuts | Windows / Linux     | Mac   |
 | :-------- | :------- | :-------------------------------- |
-|  Quokka.js | default: ctrl + alt + j, Custom: delete / (Ctrl + k --> q) | cmd + option + j |
+|  Quokka.js | Default: ctrl + alt + j, Custom: delete / (Ctrl + k --> q) | cmd + option + j |
 
 
 # Apps Required for VS Code Setup
