@@ -42,11 +42,6 @@
     "when": "!quokka.isLiveShareClient && !terminalFocus"
   },
   {
-    "key": "ctrl+k q",
-    "command": "quokka.makeQuokkaFromExistingFile",
-    "when": "!quokka.isLiveShareClient && !terminalFocus"
-  },
-  {
     "key": "ctrl+r",
     "command": "workbench.action.reloadWindow",
     "when": "false"

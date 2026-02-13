@@ -164,9 +164,9 @@ Update them if you are using another OS.
 
 ## ✨ VS Code Extensions Shortcuts 
 
-| Keyboard Shortcuts | Windows / Linux     | Mac   |
+| Keyboard Shortcuts | Windows / Linux     | Mac   | Description |
 | :-------- | :------- | :-------------------------------- |
-|  Quokka.js | Default: ctrl + alt + j, Custom: delete / (Ctrl + k --> q) | cmd + option + j |
+|  Quokka.js | Default: ctrl + alt + j, Custom: delete | cmd + option + j | Show JavaScript Output |
 
 
 # Apps Required for VS Code Setup
