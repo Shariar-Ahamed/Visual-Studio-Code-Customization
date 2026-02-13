@@ -165,7 +165,7 @@ Update them if you are using another OS.
 ## ✨ VS Code Extensions Shortcuts 
 
 | Keyboard Shortcuts | Windows / Linux     | Mac   | Description |
-| :-------- | :------- | :-------------------------------- |
+| :-------- | :------- | :-------------------------------- | :--------- |
 |  Quokka.js | Default: ctrl + alt + j, Custom: delete | cmd + option + j | Show JavaScript Output |
 
 
