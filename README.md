@@ -160,7 +160,14 @@ Update them if you are using another OS.
 |  To Show suggestion | Ctrl + Space | cmd + space |
 |  To Close a TAB | Ctrl + W | cmd + W |
 |  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |
-|  Quokka.js | Ctrl + K -> Q | cmd + option + j |
+
+
+## 🔑 VS Code Extensions Shortcuts 
+
+| Keyboard Shortcuts | Windows / Linux     | Mac   |
+| :-------- | :------- | :-------------------------------- |
+|  Quokka.js | default: ctrl + alt + j, Custom: delete / (Ctrl + k --> q) | cmd + option + j |
+
 
 # Apps Required for VS Code Setup
 
