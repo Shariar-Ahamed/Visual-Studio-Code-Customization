@@ -12,6 +12,8 @@ and enabling faster navigation, editing, debugging, and workflow control.
 
 <hr>
 
+---
+
 ### About This Section
 Visual Studio Code provides printable PDF references of its default keyboard shortcuts for each supported operating system.  
 
