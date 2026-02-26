@@ -12,6 +12,12 @@ Visual-Studio-Code-Customization/
 │
 ├── README.md
 │
+├── keyboard-shortcuts/
+│   ├── 01-keyboard-shortcuts-windows.pdf
+│   ├── 02-keyboard-shortcuts-linux.pdf
+│   ├── 03-keyboard-shortcuts-macos.pdf
+│   └── README.md
+│
 ├── settings/
 │   ├── settings.min.json
 │   └── settings.full.json
