@@ -52,6 +52,7 @@ This list evolves over time as I explore better tools.
 - Shades of Purple
 - SynthWave '84
 - Ayu (Theme)
+- FileTree Pro
 
 ---
 

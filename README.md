@@ -9,26 +9,29 @@ so I can quickly restore my environment on any new machine.
 ## FINAL REPO STRUCTURE
 ```bash
 Visual-Studio-Code-Customization/
-│
-├── README.md
-│
-├── keyboard-shortcuts/
-│   ├── 01-keyboard-shortcuts-windows.pdf
-│   ├── 02-keyboard-shortcuts-linux.pdf
-│   ├── 03-keyboard-shortcuts-macos.pdf
-│   └── README.md
-│
-├── settings/
-│   ├── settings.min.json
-│   └── settings.full.json
-│
-├── extensions/
-│   ├── extensions-list.md
-│   └── extensions-list.pdf
-│
-└── setup-guide/
-    ├── setup.md
-    └── apps-used-for-vscode.md
+│ 
+│ 
+├── 📁 extensions
+│   ├── 📕 VS Code update extension (04-04-2026).pdf
+│   └── 📝 extensions-list.md
+│ 
+├── 📁 keyboard-shortcuts
+│   ├── 📕 01-keyboard-shortcuts-windows.pdf
+│   ├── 📕 02-keyboard-shortcuts-linux.pdf
+│   ├── 📕 03-keyboard-shortcuts-macos.pdf
+│   └── 📝 README.md
+│ 
+├── 📁 settings
+│   ├── ⚙️ keybindings.json
+│   ├── ⚙️ settings.json
+│   └── ⚙️ settings.min.json
+│ 
+├── 📁 setup-guide
+│   ├── 📝 apps-used-for-vscode.md
+│   └── 📝 setup.md
+│ 
+├── 📝 README.md
+└── 📄 VS Code Script.txt
 
 
 ```
@@ -42,7 +45,7 @@ Visual-Studio-Code-Customization/
 
 ## 🛠 VS Code min json settings daily frontend use (clean + fast) 
 ```bash
- {
+{
   "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 17,
@@ -162,7 +165,7 @@ Update them if you are using another OS.
 |  Switch Between views |  Ctrl +1, Ctrl + 2 .. | cmd + 1, cmd + 2 |
 |  Duplicate Line  | Alt + Shift + up/down | option + Shift + up/down |
 |  Navigate to a specific line  | Ctrl + g | cmd + G |
-|  Open Terminal | Ctrl + ` | cmd + ` |
+|  Open Terminal | Ctrl + `, Ctrl + J  | cmd + ` |
 |  To Show suggestion | Ctrl + Space | cmd + space |
 |  To Close a TAB | Ctrl + W | cmd + W |
 |  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |
