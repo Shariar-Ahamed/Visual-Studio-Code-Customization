@@ -143,7 +143,7 @@ This list evolves over time as I explore better tools.
 
 ## 📦 Open VSX Marketplace: 
 🔗 Access the Marketplace: **[Open VSX➚](https://open-vsx.org/)**  
->> Open VSX is an open-source alternative to the Visual Studio Code Marketplace, widely used in environments like VSCodium and other open-source editors.
+> Open VSX is an open-source alternative to the Visual Studio Code Marketplace, widely used in environments like VSCodium and other open-source editors.
 
 
 
