@@ -53,6 +53,7 @@ This list evolves over time as I explore better tools.
 - SynthWave '84
 - Ayu (Theme)
 - FileTree Pro
+- Catppuccin for VSCode
 
 ---
 
@@ -139,6 +140,12 @@ This list evolves over time as I explore better tools.
 - WordPress Snippets
 
 ---
+
+## 📦 Open VSX Marketplace: 
+🔗 Access the Marketplace: **[Open VSX➚](https://open-vsx.org/)**  
+>> Open VSX is an open-source alternative to the Visual Studio Code Marketplace, widely used in environments like VSCodium and other open-source editors.
+
+
 
 ## ✅ Notes
 - Some extensions may overlap in functionality.
