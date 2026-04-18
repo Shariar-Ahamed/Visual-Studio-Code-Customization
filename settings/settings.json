@@ -116,7 +116,7 @@
   "settingsSync.ignoredSettings": [],
   "explorer.confirmDelete": false,
   "github.copilot.enable": {
-    "*": false,
+    "*": true,
     "plaintext": false,
     "markdown": false,
     "scminput": false,
@@ -209,5 +209,14 @@
   "workbench.editorAssociations": {
     "*.copilotmd": "vscode.markdown.preview.editor",
     "*.VSIXPackage": "default"
-  }
+  },
+  "terminal.integrated.stickyScroll.enabled": false,
+  "C_Cpp.default.includePath": [
+    "${env:MSYS2}/mingw64/include/"
+  ],
+  "chat.viewSessions.orientation": "stacked",
+  "quokka.automaticRestart": true,
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "hediet.vscode-drawio.resizeImages": null
 }
