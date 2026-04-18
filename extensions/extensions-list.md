@@ -9,7 +9,9 @@ This list evolves over time as I explore better tools.
 ---
 
 ## 🌐 Frontend Essentials
+
 - Live Server
+- Live Share
 - Live Sass Compiler
 - Compile Sass or Scss to CSS
 - Prettier – Code Formatter
@@ -25,7 +27,9 @@ This list evolves over time as I explore better tools.
 ---
 
 ## ⚛️ React / JavaScript
+
 - ES7+ React/Redux/React-Native Snippets
+- ES7 React/Redux/GraphQL/React-Native snippets
 - React Extension Pack
 - ReactJS Code Snippets
 - JavaScript (ES6) Code Snippets
@@ -35,10 +39,12 @@ This list evolves over time as I explore better tools.
 - Simple React Snippets
 - Snipped
 - VSCode React Refactor
+- Next JS/TS Snippets
 
 ---
 
 ## 🎨 UI / UX & Visual Tools
+
 - Material Icon Theme
 - Better Comments
 - Bracket Pair Color DLW
@@ -54,10 +60,13 @@ This list evolves over time as I explore better tools.
 - Ayu (Theme)
 - FileTree Pro
 - Catppuccin for VSCode
+- Headwind
+- Draw.io Integration
 
 ---
 
 ## 📱 Mobile & Responsive Preview
+
 - Android iOS Emulator
 - Mobile Preview - Phone & Tablet Simulator
 - MobileView
@@ -67,8 +76,12 @@ This list evolves over time as I explore better tools.
 ---
 
 ## ⚙️ Productivity & Workflow
+
 - GitHub Copilot
 - GitHub Copilot Chat
+- GitLens — Git supercharged
+- Git History
+- Git Graph
 - Gemini Code Assist
 - WakaTime
 - Code Time
@@ -77,10 +90,13 @@ This list evolves over time as I explore better tools.
 - Path Intellisense
 - Search node_modules
 - Print
+- Code Spell Checker
+- Error Lens
 
 ---
 
 ## 🤖 AI Coding Assistants
+
 - Codex – OpenAI’s coding agent
 - GitHub Copilot
 - GitHub Copilot Chat
@@ -91,6 +107,7 @@ This list evolves over time as I explore better tools.
 ---
 
 ## 🧪 Code Execution & Debugging
+
 - Code Runner
 - Run++
 - Quokka.js
@@ -99,6 +116,7 @@ This list evolves over time as I explore better tools.
 ---
 
 ## 🧮 C / C++ & System Programming
+
 - C/C++
 - C/C++ Extension Pack
 - C/C++ Runner
@@ -109,6 +127,7 @@ This list evolves over time as I explore better tools.
 ---
 
 ## 🐍 Python & Data Science
+
 - Python Path
 - Jupyter
 - Jupyter Cell Tags
@@ -119,35 +138,62 @@ This list evolves over time as I explore better tools.
 ---
 
 ## 📄 Documentation & PDF
+
 - Markdown PDF
 - PDF Viewer
 - vscode-pdf
+- Auto-Open Markdown Preview
+- Markdown All in One
 
 ---
 
 ## 🌍 Remote Development
+
 - Remote – Tunnels
 - Remote Explorer
 
 ---
 
 ## 🧪 API Testing & Backend Tools
+
 - Postman
 
 ---
 
 ## 💻 CMS & WordPress Development
+
 - WordPress Snippets
 
 ---
 
-## 📦 Open VSX Marketplace: 
-🔗 Access the Marketplace: **[Open VSX➚](https://open-vsx.org/)**  
+## 😂 Fun
+
+- vscode-pets
+
+**🐾 VS Code Pets – Command Guide**
+
+This section includes essential commands for managing pets in the VS Code Pets extension. All commands can be accessed via the Command Palette (Ctrl + Shift + P).
+
+| Command Name             | Shortcut / Access | Description                                    |
+| ------------------------ | ----------------- | ---------------------------------------------- |
+| Pets: Spawn Pet          | Ctrl + Shift + P  | Used to add a new pet (cat, dog, fox, etc.)    |
+| Pets: Remove All Pets    | Ctrl + Shift + P  | Removes all existing pets from the workspace   |
+| Pets: Rename Pet         | Ctrl + Shift + P  | Allows you to change the name of your pet      |
+| Pets: Throw Ball         | Ctrl + Shift + P  | Lets you play with your pet by throwing a ball |
+| Pets: Pause Pet Movement | Ctrl + Shift + P  | Pauses the pet’s movement (makes it static)    |
+
+---
+
+## 📦 Open VSX Marketplace:
+
+🔗 Access the Marketplace: **[Open VSX➚](https://open-vsx.org/)**
+
 > Open VSX is an open-source alternative to the Visual Studio Code Marketplace, widely used in environments like VSCodium and other open-source editors.
 
 ---
 
 ## ✅ Notes
+
 - Some extensions may overlap in functionality.
 - Not all extensions are used daily.
 - This setup is optimized for learning, frontend work, and experimenting with different tools.
