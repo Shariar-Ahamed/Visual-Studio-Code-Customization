@@ -92,6 +92,7 @@ This list evolves over time as I explore better tools.
 - Print
 - Code Spell Checker
 - Error Lens
+- Interactive Git Log
 
 ---
 
