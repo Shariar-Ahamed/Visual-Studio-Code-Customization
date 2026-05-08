@@ -184,6 +184,17 @@ This section includes essential commands for managing pets in the VS Code Pets e
 | Pets: Pause Pet Movement | Ctrl + Shift + P  | Pauses the pet’s movement (makes it static)    |
 
 ---
+**ES7+ React/Redux/React-Native Snippets**
+| Shortcut   | Work                               |
+| ---------- | ---------------------------------- |
+| `rafce`    | Arrow Function Component + export  |
+| `rfce`     | Normal Function Component + export |
+| `rafc`     | Arrow Function Component           |
+| `rfc`      | Normal Function Component          |
+| `useef`    | useEffect snippet                  |
+| `useState` | useState hook                      |
+
+---
 
 ## 📦 Open VSX Marketplace:
 
