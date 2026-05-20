@@ -1,10 +1,43 @@
-# Visual Studio Code Customization
+<h2 align="center">Visual Studio Code Customization</h2>
 
-## 📝 Why?
-A personal VS Code setup for Frontend Development and Computer Science study.
 
-This repository contains my preferred VS Code settings, extensions, and setup guide
-so I can quickly restore my environment on any new machine.
+<p align="center">
+  <img src="https://i.postimg.cc/GpLHgXzr/visual-studio.png" alt="Select language and edition">
+</p>
+
+<p align="center">
+A personal <b>VS Code</b> setup for Frontend Development and Computer Science study.
+This repository contains my preferred <b>VS Code settings</b>, <b>extensions</b>, and setup guide. So I can quickly restore my environment on any new machine.
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-Code-007ACC?style=for-the-badge&logo=visualstudiocode">
+  <img src="https://img.shields.io/badge/Customization-Setup-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Extensions-Collection-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Productivity-Workspace-blueviolet?style=for-the-badge">
+</p>
+
+<!-- <p align="center">
+
+
+
+</p> -->
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/Shariar-Ahamed/Visual-Studio-Code-Customization">
+  <img src="https://img.shields.io/github/repo-size/Shariar-Ahamed/Visual-Studio-Code-Customization">
+  <img src="https://img.shields.io/github/last-commit/Shariar-Ahamed/Visual-Studio-Code-Customization">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Shariar-Ahamed/Visual-Studio-Code-Customization?style=social">
+  <img src="https://img.shields.io/github/forks/Shariar-Ahamed/Visual-Studio-Code-Customization?style=social">
+</p>
+
+
+
+---
 
 ## FINAL REPO STRUCTURE
 ```bash
@@ -198,8 +231,9 @@ This file lists all the essential apps installed on my PC that are used alongsid
 ## 🧑‍💻 Contributors
 - [@Shariar Ahamed](https://github.com/Shariar-Ahamed/)
 
+---
 
-## 🥰 Follow me
+## 🌐 Connect With Me
 - [@Github](https://github.com/Shariar-Ahamed/)
 - [@Linkedin](https://www.linkedin.com/in/shariarahamed/)
 - [@Facebook](https://facebook.com/Shahriar.TheBrownCat/) 
