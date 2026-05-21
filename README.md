@@ -21,7 +21,6 @@ This repository contains my preferred <b>VS Code settings</b>, <b>extensions</b>
 <!-- <p align="center">
 
 
-
 </p> -->
 
 <p align="center">
