@@ -36,8 +36,8 @@ This repository contains my preferred <b>VS Code settings</b>, <b>extensions</b>
 </p>
 
 
-
 ---
+
 
 ## FINAL REPO STRUCTURE
 ```bash
