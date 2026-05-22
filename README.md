@@ -215,6 +215,7 @@ This file lists all the essential apps installed on my PC that are used alongsid
 
 | Apps Name           | Version     | Download Link |
 |--------------------|------------|---------------|
+| Visual Studio Code  | 1.121     | [Official Download](https://code.visualstudio.com/download#) |
 | Node.js             | 22.140     | [Official Download](https://nodejs.org/en/download/) |
 | Git                 | 249.0      | [Official Download](https://git-scm.com/downloads) |
 | GitHub CLI          | 2.69.0     | [Official Download](https://cli.github.com/) |
