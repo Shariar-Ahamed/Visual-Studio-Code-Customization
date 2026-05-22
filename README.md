@@ -18,11 +18,6 @@ This repository contains my preferred <b>VS Code settings</b>, <b>extensions</b>
   <img src="https://img.shields.io/badge/Productivity-Workspace-blueviolet?style=for-the-badge">
 </p>
 
-<!-- <p align="center">
-
-
-</p> -->
-
 <p align="center">
   <img src="https://img.shields.io/github/license/Shariar-Ahamed/Visual-Studio-Code-Customization">
   <img src="https://img.shields.io/github/repo-size/Shariar-Ahamed/Visual-Studio-Code-Customization">
@@ -32,6 +27,10 @@ This repository contains my preferred <b>VS Code settings</b>, <b>extensions</b>
 <p align="center">
   <img src="https://img.shields.io/github/stars/Shariar-Ahamed/Visual-Studio-Code-Customization?style=social">
   <img src="https://img.shields.io/github/forks/Shariar-Ahamed/Visual-Studio-Code-Customization?style=social">
+</p>
+
+<p align="center">
+<a href="https://wakatime.com/badge/user/c7433bc5-6f12-4c97-baea-430790fa608c/project/5e9e6bc6-6021-4cd5-b96b-6dbf0c1037fd"><img src="https://wakatime.com/badge/user/c7433bc5-6f12-4c97-baea-430790fa608c/project/5e9e6bc6-6021-4cd5-b96b-6dbf0c1037fd.svg" alt="wakatime"></a>
 </p>
 
 
