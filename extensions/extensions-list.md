@@ -62,6 +62,7 @@ This list evolves over time as I explore better tools.
 - Catppuccin for VSCode
 - Headwind
 - Draw.io Integration
+- Vibrancy Continued
 
 ---
 
