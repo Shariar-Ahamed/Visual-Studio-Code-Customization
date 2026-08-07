@@ -63,6 +63,7 @@ This list evolves over time as I explore better tools.
 - Headwind
 - Draw.io Integration
 - Vibrancy Continued
+- DevTool+
 
 ---
 
