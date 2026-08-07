@@ -197,6 +197,14 @@ This section includes essential commands for managing pets in the VS Code Pets e
 
 ---
 
+## 🛍️ Visual Studio Marketplace
+
+🔗 Access the Marketplace: **[Visual Studio Marketplace ↗](https://marketplace.visualstudio.com/)**
+
+> Visual Studio Marketplace is Microsoft's official marketplace for discovering, installing, and publishing extensions for Visual Studio Code, Visual Studio, Azure DevOps, and other developer tools. 01
+
+---
+
 ## 📦 Open VSX Marketplace:
 
 🔗 Access the Marketplace: **[Open VSX➚](https://open-vsx.org/)**
