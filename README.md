@@ -61,10 +61,7 @@ Visual-Studio-Code-Customization/
 │   ├── 📝 apps-used-for-vscode.md
 │   └── 📝 setup.md
 │ 
-├── 📝 README.md
-└── 📄 VS Code Script.txt
-
-
+└── 📝 README.md
 ```
 
 ## ✨ Features
@@ -209,17 +206,21 @@ Update them if you are using another OS.
 |  Quokka.js | Default: ctrl + alt + j, Custom: delete | cmd + option + j | Show JavaScript Output |
 
 
-# Apps Required for VS Code Setup
+## 🚀 Apps & Companion Tools Required for Setup
 
-This file lists all the essential apps installed on my PC that are used alongside Visual Studio Code for development.
+See the detailed setup and winget one-liner: **[setup-guide/apps-used-for-vscode.md](setup-guide/apps-used-for-vscode.md)**
 
-| Apps Name           | Version     | Download Link |
-|--------------------|------------|---------------|
-| Visual Studio Code  | 1.121     | [Official Download](https://code.visualstudio.com/download#) |
-| Node.js             | 22.140     | [Official Download](https://nodejs.org/en/download/) |
-| Git                 | 249.0      | [Official Download](https://git-scm.com/downloads) |
-| GitHub CLI          | 2.69.0     | [Official Download](https://cli.github.com/) |
-| PowerShell 7 (x64)  | 7.5.4      | [Official Download](https://github.com/PowerShell/PowerShell/releases) |
+| Apps Name | Category | Download Link |
+| :--- | :--- | :--- |
+| **Google Antigravity** | AI IDE / Editor | [Official Website](https://antigravity.google/) |
+| **Visual Studio Code** | Code Editor | [Official Download](https://code.visualstudio.com/download#) |
+| **Node.js (LTS)** | JavaScript Runtime | [Official Download](https://nodejs.org/en/download/) |
+| **Git for Windows** | Version Control | [Official Download](https://git-scm.com/downloads) |
+| **GitHub CLI** | Terminal CLI Tool | [Official Download](https://cli.github.com/) |
+| **PowerShell 7 (x64)** | Modern Shell | [Official Download](https://github.com/PowerShell/PowerShell/releases) |
+| **Windows Terminal** | Terminal Emulator | [Microsoft Store](https://aka.ms/terminal) |
+| **Google Chrome** | Browser & DevTools | [Official Download](https://www.google.com/chrome/) |
+| **Postman** | API Client | [Official Download](https://www.postman.com/downloads/) |
 
 
 
