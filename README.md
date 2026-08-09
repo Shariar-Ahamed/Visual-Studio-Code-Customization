@@ -146,6 +146,36 @@ All extensions are categorized with default trigger keys and descriptions in **[
 
 ---
 
+## 🔑 VS Code Keyboard Shortcuts
+
+| Keyboard Shortcuts | Windows / Linux | Mac |
+| :--- | :--- | :--- |
+| **HTML boilerplate** | `! + TAB` | `! + TAB` |
+| **Open the palette to search for a file** | `Ctrl + P` | `Cmd + P` |
+| **Add cursors to all matching selections** | `Ctrl + Shift + L` | `Cmd + Shift + L` |
+| **Undo** | `Ctrl + U` | `Cmd + U` |
+| **Select Current Line** | `Ctrl + L` | `Cmd + L` |
+| **Zen Mode** | `Ctrl + K Z` | `Cmd + K Z` |
+| **Toggle Sidebar** | `Ctrl + B` | `Cmd + B` |
+| **Search Global Files** | `Ctrl + Shift + F` | `Ctrl + Shift + F` |
+| **Search on file** | `Ctrl + F` | `Cmd + F` |
+| **Find and Replace** | `Ctrl + H` | `Cmd + H` |
+| **Delete the previous Word** | `Ctrl + Backspace` | `Cmd + Backspace` |
+| **Move line up/Down** | `Alt + Up / Down` | `Option + Up / Down` |
+| **Add multiple cursors** | `Ctrl + Alt + Up / Down` | `Cmd + Option + Up / Down` |
+| **Comment Line** | `Ctrl + /` | `Cmd + /` |
+| **Comment Line (Alternative)** | `Ctrl + K + Ctrl + C` | `Cmd + K + Cmd + C` |
+| **Split View** | `Ctrl + \` | `Cmd + \` |
+| **Switch Between views** | `Ctrl + 1`, `Ctrl + 2` ... | `Cmd + 1`, `Cmd + 2` ... |
+| **Duplicate Line** | `Alt + Shift + Up / Down` | `Option + Shift + Up / Down` |
+| **Navigate to a specific line** | `Ctrl + G` | `Cmd + G` |
+| **Open Terminal** | `Ctrl + \``, `Ctrl + J` | `Cmd + \`` |
+| **To Show suggestion** | `Ctrl + Space` | `Cmd + Space` |
+| **To Close a TAB** | `Ctrl + W` | `Cmd + W` |
+| **To Close all TAB** | `Ctrl + Shift + W` | `Cmd + Shift + W` |
+
+---
+
 ## ⌨️ Custom Keybindings (`keybindings.json`)
 
 Custom shortcuts configured for fast access:
