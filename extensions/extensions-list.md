@@ -89,9 +89,10 @@ This list evolves over time as I explore better tools.
 
 | Extension Name | Shortcut / Access Key | Description / Purpose |
 | :--- | :--- | :--- |
+| **GitHub Actions** | Activity Bar → Actions Icon / `Ctrl + Shift + P` | Manage workflows, monitor CI/CD runs & validate YAML |
+| **GitLens — Git supercharged** | Hover / Status Bar / Sidebar | Line blame, commit history & repo exploration |
 | **GitHub Copilot** | `Tab` (Accept) / `Alt + ]` (Next) | AI autocomplete suggestions as you type |
 | **GitHub Copilot Chat** | `Ctrl + Alt + I` / `Ctrl + I` | Interactive AI conversation and code assistant |
-| **GitLens — Git supercharged** | Hover / Status Bar / Sidebar | Line blame, commit history & repo exploration |
 | **Git History** | `Ctrl + Shift + P` → Git: View History | View git log, file graph & compare commits |
 | **Git Graph** | Status Bar → Git Graph | Interactive visual branch tree & Git actions |
 | **Gemini Code Assist** | `Ctrl + Shift + P` → Gemini | Google AI code assistance, explanation & transformation |
