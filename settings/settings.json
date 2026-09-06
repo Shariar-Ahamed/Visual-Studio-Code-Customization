@@ -221,5 +221,7 @@
   "claudeCode.preferredLocation": "panel",
   "explorer.compactFolders": false,
   "workbench.colorTheme": "Dracula Theme",
-  "redhat.telemetry.enabled": true
+  "redhat.telemetry.enabled": true,
+  "python.languageServer": "Default",
+  "terminal.integrated.suggest.enabled": true
 }
